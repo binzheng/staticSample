@@ -70,7 +70,7 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Home001',
+          title: 'Home002',
           to: '/home',
         },
       ],
